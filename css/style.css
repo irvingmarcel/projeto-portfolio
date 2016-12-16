@@ -1,7 +1,16 @@
 * {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   box-sizing: border-box;
   color: #696250;
+}
+
+
+/*inicio estilo de fonte do google*/
+
+
+@import url(http://weloveiconfonts.com/api/?family=brandico);
+[class*="brandico-"]:before {
+  font-family: 'brandico', sans-serif;
 }
 
 
@@ -23,7 +32,7 @@
 }
 
 h1 {
-  font-family: 'Englebert', sans-serif;
+  font-family: "Englebert", sans-serif;
   font-size: 40px;
   margin: 0;
   margin-top: 10px;
@@ -39,7 +48,7 @@ h1 {
 /*separador*/
 
 hr {
-  border-top: 1px solid #DBD6AF;
+  border-top: 1px solid #dbd6af;
 }
 
 
@@ -71,7 +80,7 @@ hr {
 }
 
 h5 {
-  color: #DBD6AF;
+  color: #dbd6af;
   font-size: 13px;
 }
 
