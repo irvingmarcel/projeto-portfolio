@@ -63,7 +63,7 @@ hr {
   height: 300px;
   margin-top: 20px;
   background-size: cover;
-  background-image: url("../img/html.jpg");
+  background-image: url(../img/html.jpg);
 }
 
 .main-column .description {
